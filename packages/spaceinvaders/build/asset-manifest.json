@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d01aca3f.chunk.css",
+    "main.js": "/static/js/main.c86845c6.chunk.js",
+    "main.js.map": "/static/js/main.c86845c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.553e9db7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.553e9db7.js.map",
+    "static/css/2.658248ec.chunk.css": "/static/css/2.658248ec.chunk.css",
+    "static/js/2.f5e75481.chunk.js": "/static/js/2.f5e75481.chunk.js",
+    "static/js/2.f5e75481.chunk.js.map": "/static/js/2.f5e75481.chunk.js.map",
+    "static/js/3.c9714c99.chunk.js": "/static/js/3.c9714c99.chunk.js",
+    "static/js/3.c9714c99.chunk.js.map": "/static/js/3.c9714c99.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.d01aca3f.chunk.css.map": "/static/css/main.d01aca3f.chunk.css.map",
+    "static/js/2.f5e75481.chunk.js.LICENSE.txt": "/static/js/2.f5e75481.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/linebeam-webfont.c4942470.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.553e9db7.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.f5e75481.chunk.js",
+    "static/css/main.d01aca3f.chunk.css",
+    "static/js/main.c86845c6.chunk.js"
+  ]
+}
