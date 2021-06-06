@@ -15,8 +15,13 @@ router.get('/', async(req, res)=>{
 })
 
 router.delete('/:id', async(req, res)=>{
+
+    try {
     const player = await Player.findByIdAndDelete(req.params.id)
     res.json(player)
+    } catch (err) {
+        res.send('error : ' + err)  
+    }
 })
 
 router.post('/', async(req, res)=>{
